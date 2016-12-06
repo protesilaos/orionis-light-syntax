@@ -22,6 +22,6 @@ apm install orionis-syntax
 
 ## Further information
 
-Project page: [http://www.protesilaos.com/orionis](http://www.protesilaos.com/orionis)
+Project page: [https://protesilaos.com/orionis](https://protesilaos.com/orionis)
 
 Orionis dark version: [https://atom.io/themes/orionis-dark-syntax](https://atom.io/themes/orionis-dark-syntax)
